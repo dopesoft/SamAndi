@@ -6,7 +6,7 @@ Build a functional calculator using HTML, CSS, and JavaScript.
 
 ## User stories
 
-- [ ] My calculator should contain the following buttons: `AC (all clear)`, `/ (divide)`, `x (multiply)`, `- (subtract)`, `+ addition`, `= (equals)`, `. (decimal)`, and the numbers `1 - 10`.
+- [X] My calculator should contain the following buttons: `AC (all clear)`, `/ (divide)`, `x (multiply)`, `- (subtract)`, `+ addition`, `= (equals)`, `. (decimal)`, and the numbers `1 - 10`.
 - [ ] When I select a button, the value of that button will display in an equation screen.
 - [ ] I can select multiple button numbers sequentially to display larger numbers.
 - [ ] When I select the `= (equals)` button, the calculator will calculate the equation from the equation screen, and display the result in the result screen.
