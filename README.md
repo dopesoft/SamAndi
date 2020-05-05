@@ -1,2 +1,3 @@
 # SamAndi
-A place to program for Sam and I
+
+A place to program for Sam and I.
