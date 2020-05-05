@@ -8,23 +8,26 @@ h1 {
 
 }
 
+
 section {
   text-align: center;
 
 }
 
-div {
-  display: inline-block;
-
+.equationoutput {
+  padding-bottom: 20px;
 }
 
-.equationoutput {
-  background-color: lightslategrey;
+.column {
+  padding-bottom: 10px;
+  text-align: center;
+
 }
 
 button {
-  padding: 20px 20px 20px;
+  padding: 20px;
   text-align: center;
-  border-radius: 10px;
+  line-height: 1em;
+  border-radius: 20px;
 
 }
