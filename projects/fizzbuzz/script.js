@@ -1,10 +1,9 @@
 // Fizz Buzz Exercise
-// console.log('fizzbuzz')
-
+// console.log('fizzbuzz');
 
 const listOf100 = [];
 
-for (i = 0; 0 < 101; i++) {
+for (let i = 1; i <= 100; i++) {
     listOf100.push(i);
 };
 
